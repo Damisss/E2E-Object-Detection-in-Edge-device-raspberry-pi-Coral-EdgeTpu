@@ -1,5 +1,5 @@
 # E2E-Object-Detection-in-Edge-device-raspberry-pi-Coral-EdgeTpu
-<img src="/result.gif" width="100" height="100"/>
+<img src="/result.gif" width="300" height="300"/>
 
 In this tutorial atempts to depict how to implement an end to end custom object detection for edge device (Google Coral's TPU usb Accelerator). We will train a custom model using TensorFlow Object Detection API on TPU and and cloud jobs and model deployment in Coral Edge Tpu. GCP file contains the instruction for providing cloud storage bucket access to the TPU in project.
 
