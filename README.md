@@ -14,6 +14,6 @@ To run real time inference:
 
 References
 
-https://www.pyimagesearch.com/raspberry-pi-for-computer-vision
+https://www.pyimagesearch.com/raspberry-pi-for-computer-vision/
 https://coral.ai/docs/
-https://www.pyimagesearch.com/2019/04/22/getting-started-with-google-corals-tpu-usb-accelerator
+https://www.pyimagesearch.com/2019/04/22/getting-started-with-google-corals-tpu-usb-accelerator/
